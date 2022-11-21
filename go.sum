@@ -1,0 +1,4 @@
+github.com/jnnkrdb/corerdb v1.4.0 h1:OQzAqplHr1VLLxoF/V5V2FATs4nam6E0huxrs4P7hbs=
+github.com/jnnkrdb/corerdb v1.4.0/go.mod h1:0YOsgjFObmWNeiETKpjfnLYqonprtV5OxyWmv/dw3oE=
+github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
+github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
