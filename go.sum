@@ -1,4 +1,6 @@
-github.com/jnnkrdb/corerdb v1.4.0 h1:OQzAqplHr1VLLxoF/V5V2FATs4nam6E0huxrs4P7hbs=
-github.com/jnnkrdb/corerdb v1.4.0/go.mod h1:0YOsgjFObmWNeiETKpjfnLYqonprtV5OxyWmv/dw3oE=
-github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
-github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+github.com/jnnkrdb/corerdb v1.2.1 h1:byfFghIdBIYWkEiO2hD1tj8m8s747t0qq1O/vjUhRGU=
+github.com/jnnkrdb/corerdb v1.2.1/go.mod h1:0YOsgjFObmWNeiETKpjfnLYqonprtV5OxyWmv/dw3oE=
+github.com/lib/pq v1.10.7 h1:p7ZhMD+KsSRozJr34udlUrhboJwWAgCg34+/ZZNvZZw=
+github.com/lib/pq v1.10.7/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/mattn/go-sqlite3 v1.14.15 h1:vfoHhTN1af61xCRSWzFIWzx2YskyMTwHLrExkBOjvxI=
+github.com/mattn/go-sqlite3 v1.14.15/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
